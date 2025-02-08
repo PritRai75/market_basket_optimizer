@@ -1,6 +1,14 @@
-venv/
-.ipynb_checkpoints/
+# Python
 __pycache__/
-.env
-*.pyc
-.DS_Store
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
